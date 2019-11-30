@@ -1,0 +1,92 @@
+body{
+  background-color: #ddd;
+  background-size: cover;
+  font-family: arial;
+  color: #222;
+  background-image:url(../img/blu.jpg),
+}
+
+.login_cont{
+  max-width: 400px;
+  min-height: 300;
+  background-color: ;
+  margin: 10px auto;
+}
+.login_cont h3{
+  color: #fff;
+  margin: 0 0 10px 5px;
+
+}
+.login_cont form{
+  padding: 30px;
+  margin: 5px;
+  background-color: rgb(255,255,255,0.5);
+  border-radius: 10px;
+  box-shadow: 0 3px  46px rgba(0,0,0,0.5);
+  list-style: none;
+
+
+}
+.login_cont form ul {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.login_cont form ul li{
+  padding: 0px;
+  margin: 0px 0 ;
+  list-style: none;
+}
+
+.login_cont form ul li{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+
+}
+.login_cont form label{
+  display: block;
+  padding-bottom: 5px;
+  font-size: 12px;
+  padding-bottom: 3px;
+}
+
+.login_cont form input[type=text], .login_cont form input[type=email], .login_cont form input[type=password]{
+  border-radius: 5px;
+  display: block;
+  width: 328px;
+  height: 35px;
+  padding-bottom: 5px;
+  text-indent: 10px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+ 
+} 
+
+
+
+.login_cont form select[type=date]{
+  display: block;
+  width: 332px;
+  height: 35px;
+  text-indent: 5px;
+  border: 10px solid #ccc;
+  background-color: #fff;
+
+}
+.login_cont form input+label{
+  display: inline;
+  padding-right: 10px;
+}
+
+.login_cont form input[type=SUBMIT]{
+  color: #000;
+  border: none;
+  height: 40px;
+  width: 330px;
+  background-color: #444;
+
+
+
+}

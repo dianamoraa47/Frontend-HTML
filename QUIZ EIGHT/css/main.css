@@ -1,0 +1,58 @@
+body{
+	background-color: 
+	font-family:arial;
+	color:#222 
+}
+
+
+.login-cont {
+	min-height: 300px;
+	min-width: 400px;
+	margin: 10px auto;
+}
+.login_cont h3{
+  color: #fff;
+  margin: 0 0 10px 5px;
+}
+.login_cont form{
+  padding: 30px;
+  margin: 5px;
+  background-color: rgb(255,255,255,0.5);
+  border-radius: 10px;
+  box-shadow: 0 3px  46px rgba(0,0,0,0.5);
+  list-style: none;
+  }
+
+
+.login-cont form ul{
+	padding: 0px;
+	margin: 0px;
+}
+ .login-cont form ul li{
+ 	padding: 0px;
+	margin: 0px 0px 0;
+ 	list-style: none;
+
+}
+
+.login-cont form label{
+	display: block;
+	padding-bottom: 5px;
+	font-size: 12px;
+
+}
+
+.login-cont form inputt[type=text], .login_cont form input[type=email], .login_cont form input[type=password]{
+	display: block;
+	width: 32px;
+	height: 35px;
+	border: 1px solid#ccc;
+	text-indent: 10px;
+
+
+}
+
+.login-cont form input+label{
+	display: inline;
+	padding-right: 10px;
+}

@@ -1,0 +1,43 @@
+body{
+ 	background-color: black;
+ }
+ nav{
+ 	text-decoration: none;
+ 	background-color:  #1e1a1a;
+ 	min-height: 50px;
+ 	padding-top: 20px;
+ 	padding-left: 9px;
+ 	color: white;
+ }
+
+
+
+.image {
+  
+  margin-top: 10px;
+  background-color: black;
+  float: right;
+}
+
+.text2 {
+float: left;
+color: white;
+width: 500px;
+height: 500px;
+text-align: justify;
+margin-top: 10px;
+/*font-size: 20px;*/
+padding-left: 30px;
+font-family: 'Crimson Pro', serif;
+
+/*  background-color: yellow;*/
+}
+
+button{
+border: white;
+padding: 15px;
+background-color: black;
+color: white;
+}
+
+ </style>

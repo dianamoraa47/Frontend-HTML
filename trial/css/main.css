@@ -1,0 +1,332 @@
+body {height: 1000px;
+background-color:#191f21;*/
+ }
+.container{margin: 0 auto; width: 1170px;
+font-family: arial;}
+.clearfix{ clear: both; } 
+
+
+
+
+.moraa{
+  background-image: url(../img/mee.jpg);
+  background-size: cover;
+  height: 600px;  
+}
+
+
+.moraa .cont.intro 
+{
+  padding: 200px;
+  text-align: center;
+  color: #fff;
+}
+
+.moraa .cont .intro h1
+{
+  margin: 0 auto;
+  font-size: 50px;
+  border-top: 2px solid #FFF;
+  border-bottom: 2px solid #FFF;
+  padding: 12px 0;
+  width: 600px;
+  color: #fff; 
+}
+
+.moraa .name.intro 
+{
+  margin-top: 30px;
+  background: none;
+  font-size: 18px;
+  color: #fff;
+  border: 2px solid green;
+  padding: 10px 30px;
+  font-weight:bold;
+}
+.moraa .navbar
+{
+  background-color: #252e30;
+  color: #FFF;
+  padding-left: 0px;
+  overflow: hidden;
+  text-transform: uppercase;
+}
+.moraa .bar h4{ color: #FFF; }
+.moraa .bar h4 span{ color: #2a9058; }
+.moraa .bar ul
+
+
+{
+  list-style: none;
+  padding-left: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.bar ul li { padding: 10px; float: left;}
+.bar ul li a{ color:#FFF; text-decoration: none;}
+.bar ul li.act a ,
+.bar ul li a:hover{color:#3c7316;}
+
+
+.fore {overflow: hidden; padding-top: 50px; padding-bottom: 70px;}
+.fore  .fit{ width: 33.333333%; height: 150px;}
+.fore  .fit h2{text-transform: uppercase;color: #444;}
+.fore  .fit p{padding: 0 10px 0 10px;}
+
+
+..me {
+    float:right;
+    background: silver;
+    width:60%;
+   /* height:620.91px;*/
+}
+
+
+.abt{
+    float:left;
+    width: 50%;
+}
+.design:after{
+    content: "";
+    display: table;
+    clear: both;
+    width: 10px 0px;
+    
+}
+
+.abt{
+    background-color: #bbbbbb;
+}
+
+
+               
+.pic img{
+    float:left;
+    width: 508px;
+   /* height: 620.91px;*/
+}
+
+
+.my{
+    background-color: white;
+    height: 330px;
+    width:100%;
+    display: table;
+    padding-left: 100px;
+
+}
+
+.cat{
+    float: left;
+    width: 45%;
+    padding: 10px;
+
+}
+
+
+.cat h3{
+    border: 3px solid green;
+    width: 200px;
+    /*height: 50px;*/
+    text-align: center;
+    padding-top: 10px;
+    color: green;
+
+}
+
+.photo {
+    width: 500px;
+   /* height: 30px;*/
+    background-color: silver;
+}
+
+.a_photo{
+    width: 90%;
+    /*height: 30px;*/
+    background-color: green;
+}
+
+.illust {
+    width: 500px;
+   /* height: 30px;*/
+    background-color: silver;
+}
+
+.a_illust{
+    width: 80%;
+   /* height: 30px;*/
+    background-color: green;
+
+}
+
+.code {
+    width: 500px;
+   /* height: 30px;*/
+    background-color: silver;
+}
+
+.a_code{
+    width: 90%;
+   /* height: 30px;*/
+    background-color: green;
+
+}
+
+.sql {
+    width: 500px;
+/*    height: 30px;
+*/    background-color: silver;
+}
+
+.a_sql{
+    width: 70%;
+/*    height: 30px;
+*/    background-color: green;
+
+}
+
+.res{
+    width: 45%;
+  /*  height: 300px;*/
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 20px;
+    background-color: silver;
+
+}
+
+
+.res h3{
+    border: 3px solid green;
+    width: 200px;
+    /*height: 50px;*/
+    text-align: center;
+    padding-top: 10px;
+    color: green;
+    margin: 0 auto;
+
+}
+
+.pg{
+    background-color: white;
+   /* height: 400px;*/
+    width:100%;
+    display: table;
+    padding-top: 60px;
+    padding-left: 7%;
+}
+
+.edu{
+    float: left;
+    width: 45%;
+    padding: 10px;
+}
+
+.dip{
+    width: 50%;
+    float: right;
+
+}
+.dip: dipone{
+    padding-top: 20px;
+}
+
+.dip h5{
+    border: 3px solid green;
+    width: 80px;
+/*    height: 25px;
+*/    text-align: center;
+    padding-top: 5px;
+    color: white;
+    background-color: green;
+ }
+
+.xpe{
+    background-color: white;
+/*    height: 45%;
+*/    width:100%;
+    display: table;
+    padding-top: 20px;
+    padding-left: 7%;
+}
+.work{
+    float: left;
+    width: 45%;
+    padding: 10px;
+    padding-right: 8%;
+}
+
+.rat{
+    width: 50%;
+    float: right;
+   padding-right: 8%;
+
+}
+
+.rat h6{
+    font-size: 15px;
+}
+
+.rat h5{
+    border: 3px solid green;
+    width: 80px;
+/*    height: 25px;
+*/    text-align: center;
+    padding-top: 5px;
+    color: white;
+    background-color: green;
+ }
+
+ .sum{
+    width: 45%;
+    /*height: 300px;*/
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 40px;
+    background-color: silver;
+
+}
+
+
+
+
+.why{
+    background-color: #fff;
+    overflow: auto;
+    padding:20px;
+    width: 100% ;
+    padding-left: 10%;
+    margin: 0 auto;
+    text-align: center;
+
+
+
+}
+
+
+
+
+.port{
+    column-count: 3;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+
+.tact{
+    text-align: left;
+    padding-right: 55%;
+    background-color: #A9A9A9;
+}
+.act{
+    font-size: 18px;
+    padding-left: 22%;
+}
+.this{
+    padding-left: 55%;
+    text-align: right;
+    color:grey;
+}

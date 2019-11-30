@@ -1,0 +1,16 @@
+grid view pages are divided into columns
+column
+anchor link
+wen u click it takes u to another section
+give it an id
+# is used as an id
+. (dot)
+HO
+<h2 id"yep">yippe</a>
+<a href="yep">ok</a>
+fixed header
+
+.h3
+padding top 70px
+
+on the part-----

@@ -1,0 +1,160 @@
+body{
+   background-color: #ffffff;
+   /*background-image:url(../image/bb3.jpg);
+   background-repeat:no-repeat;
+   background-size: cover;
+   margin: 0 auto;*/
+  
+/*height: 50px;
+padding-top: 30px;
+text-align: center;
+font-size: 14px;
+line-height: 12px;
+*/
+}
+
+.yap{
+height: 900px;
+background-color: silver;
+margin: 0 auto;
+
+}
+/*.all{
+height: 900px;
+background-color: black;
+width: 1070px;
+margin: 0 auto;
+}*/
+.cont{
+height: 69px;
+background-color: grey;
+}
+.content h1{
+  float: center;
+  color: #ffffff;
+  font-size: 30px;
+  text-decoration-color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+
+}
+.content h4{
+   border-style:solid;
+   width: 120px;
+   border-width: 1px;
+   border-color: #ffffff;
+   position: absolute;
+   bottom: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+.content hr{
+   float: center;
+   text-decoration: white;
+
+}
+.navbar{
+
+  overflow: hidden;
+  background-color: #333;
+  position: absolute;
+  border-width: 0;
+  width: 100%;
+  bottom: 0px;
+padding-top: 15px;
+display: block;
+
+
+}
+.navbar a {
+float: left;
+display: block;
+color: #green;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+position: absolute;
+
+}
+
+
+.navbar a:hover {
+color: green;
+}
+
+.time {
+column-count: 3;
+padding: 30px;
+padding-right: 20px;
+background-color: #ffffff;
+
+
+}
+
+.that {
+  padding-right: 14px;
+  text-align: left;
+  
+}
+.two{
+width: 550px;
+height: 320px;
+/*background-color: orange;*/
+float: left;
+margin-top: 40px;
+
+}
+.photoshop{
+width: 400px;
+height: 22px;
+margin-top: 20px;
+background-color: #eaebed;
+}
+.shop{
+width: 90%;
+height: 21px;
+background-color: #1cc958;
+text-align: right;
+padding-top: 1px;
+}
+.illustrator{
+width: 400px;
+height: 22px;
+margin-top: 20px;
+background-color: #eaebed;
+}
+.strator{
+width: 70%;
+height: 21px;
+background-color: #1cc958;
+text-align: right;
+padding-top: 1px;
+
+}
+
+.html{
+width: 400px;
+height: 22px;
+margin-top: 20px;
+background-color: #eaebed;
+}
+.rat{
+width: 60%;
+height: 21px;
+background-color: #1cc958;
+text-align: right;
+padding-top: 1px;
+
+}
+
+.ten{
+height: 500px;
+background-color: silver;
+margin: 0 auto;
+padding-bottom: 14px;
+
+}

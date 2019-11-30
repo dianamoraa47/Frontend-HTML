@@ -1,0 +1,161 @@
+body{
+ 	background-color: grey;
+ }
+nav{
+ 	text-decoration: none;
+ 	background-color: #8B0000;
+ 	min-height: 50px;
+ 	padding-top: 40px;
+ 	padding-left: 39px;
+
+ 	}
+
+/*.art a{
+color: #ffffff;
+border: 1px solid #ffffff;
+display:table;
+margin: 0 auto;
+text-decoration: none;
+margin-top: 50px; 
+}*/
+
+/*.img{
+margin-top: 10px;
+background-color: purple;
+float: right;
+}
+*/
+
+.doc{
+	font-size: 26px;
+	font-weight: bold;
+	padding-left: 83px;
+	text-decoration: none;
+
+}
+
+/*end portfolio*/
+
+.img{
+float: left;
+width: 500px;
+height: 400px;
+margin-top: 20px;
+padding-left: 30px;
+}
+
+.me{
+float: right;
+color: pink;
+width: 500px;
+height: 400px;
+text-align: center;
+margin-top: 20px;
+padding-left: 50px;
+padding-right: 95px;
+font-family: 'Crimson Pro', serif;
+
+}
+
+.me p{
+	font-size: 20px;
+	font-family: roboto;
+}
+
+.info{
+	font-size: 20px;
+}
+button{
+border: white;
+padding: 15px;
+background-color:blue;
+color: white;
+}
+
+.edi img{
+	align:center;
+}
+.contacts{
+	text-decoration-color: yellow;
+	/*color: green;*/
+	
+}
+.email_footer{
+width: 40%;
+float: left;
+padding: 5%;
+margin-top: 65px;
+}
+.email_footer form{
+
+padding:30px;
+margin: 5px;
+border: 10px;
+background-color: #252f31;
+}
+.email_footer form label{
+display:block;
+font-size: 12px;
+color: #fff;
+padding-bottom: 20px;
+}
+.email_footer form ul{
+padding:0px;
+margin:0px;
+}
+
+.email_footer form ul li{
+padding:0px;
+margin:0px 0 40px 0;
+list-style: none;
+font: 50px;
+
+}
+.email_footer form input[type=text] {
+display:block;
+width:112%;
+min-height:58px;
+text-indent: 10px;
+background-color: #4b5557;
+border:#4b5557; 
+
+
+}
+
+ .email_footer form input[type=email] {
+display:block;
+width:100%;
+min-height:58px;
+text-indent: 10px;
+background-color: #4b5557;
+border:#4b5557; 
+}
+.email_footer form input[type=message] {
+display:block;
+width:100%;
+min-height:270px;
+text-indent: 10px;
+background-color: #4b5557;
+border:#4b5557; 
+}
+
+.email_footer a{
+background-color: #4b5557;
+border: 2px solid #4b5557;
+margin-left: 35px;
+display: table;
+padding: 15px 20px;
+text-decoration: none;
+font-size: 18px;
+font-weight: bold;
+color: #fff;
+
+}
+ </style>
+
+
+.icons{
+	padding: 15px 20px;
+	display: table;
+
+}

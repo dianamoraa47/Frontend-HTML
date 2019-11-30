@@ -1,0 +1,60 @@
+staticg 
+position 
+absolute 
+fixed
+sticky
+
+block 
+
+POSITIONFIXED
+header{
+position fixed;
+top 0;
+width 100%
+h 60
+.cont
+width 900 px
+margin 0 auto
+paddin 30
+color fff
+z-index 0; only works for relative fixed and absolute
+ 
+
+.cont .tst{
+h
+we
+position relative
+bgcolor red;
+
+
+POSITION RELATIVE
+NB dont use position if it aint necessary
+
+
+POSITION ABSOLUTE
+Span.plus {
+width
+height
+border radius
+bgcolor orange
+color fff
+list sty 2cm;
+font style 20px;
+display block
+text align center
+position absolute
+ryt 100
+
+
+span.plus.one{
+bg blue
+left -30px
+top -30px
+
+POSITION STICKY
+.h2{
+bg color
+ span its an email element
+
+in line element 
+a block takes a whole width

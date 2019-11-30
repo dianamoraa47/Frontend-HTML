@@ -1,0 +1,36 @@
+body{
+
+	
+	background-image:url(../images/giphy.gif),
+
+	url(../images/basketball.gif),
+
+	url(../images/ted.jpg),url(../images/pitch.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+    background-size:30%,40%,20%,cover;
+	background-position:70%,right 5%,left 5%,center
+
+}
+
+
+.container{
+	width: 600px;
+	background-color: rgba(0,0,0,0.5);
+	min-height: 500px;
+	padding: 30px;
+	margin: 0 auto;
+	color: #c21858;
+}
+
+  h1{background-color: darkblue; 
+  	color: purple;
+  	padding-left: 24px;
+
+  }
+  h4{
+  	
+    color: blue;
+    position: center;
+
+  }

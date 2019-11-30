@@ -1,0 +1,41 @@
+@font-face{
+  font-family:;
+  src:url(../font/.ttf);
+}
+
+body{
+  background-color: #ddd;
+  background-size: cover;
+  font-family: arial;
+  color: #222;
+  background-image:url(../img/blu.jpg),
+}
+
+h1{
+  font-family: 'Niconne', cursive;
+
+}
+p{
+  font-family: 'Black Ops One', cursive;
+}
+.fb {
+color:#fff;
+width:15px;
+height:25px;
+text-align:center;
+background-color:#ddd;
+display:  inline block;
+border-radius: 20px;
+
+
+}
+.twitter{
+color:#38A1F3;
+width:15px;
+height:25px;
+text-align:center;
+background-color:#ddd;
+display:  inline block;
+border-radius: 20px;
+
+}

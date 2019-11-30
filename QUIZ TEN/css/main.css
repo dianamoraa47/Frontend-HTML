@@ -1,0 +1,51 @@
+body{
+	background-color:#ccc; 
+}
+
+header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 60px;
+
+}
+
+.content{
+	width: 500px;
+	margin: 0 auto;
+	padding: 30px
+	background-color:#fff;
+
+}
+
+.content .text{
+	height: 50px;
+	width:50px;
+	position: relative;
+	background-color: 
+}
+
+.content{
+
+}
+
+   span.plus {
+   width:500px;
+   height:500px;
+   border-radius
+   background-color: orange;
+   color:#fff;
+   list-style:2cm;
+   font-style:20px;
+   display:block; 
+   text-align:center;
+   position:absolute; 
+   right:100; 
+
+}
+
+ span.plus .one{
+background-color: blue;
+left :-30px;
+ }
+

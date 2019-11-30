@@ -1,0 +1,358 @@
+ body{
+    .moraa{margin: 0 auto; width: 1200px;}
+    .cont(clear: both)
+    
+      
+}
+
+   
+.cont{
+    background-image:url(../img/mee.jpg);
+    background-color: #fff;
+    background-size: cover;
+    background-repeat:no-repeat;
+
+}
+
+.moraa h1{
+    color: #fff;
+    font-size: 30px;
+   /* top: 50%;
+    left: 50%;*/
+    float: center;
+    transform: translate(-50%, -50%);
+    text-decoration-color: #fff;
+    position: absolute;
+    border top:1px solid no-repeat;
+    display: table;
+    margin: 0 auto;
+
+}
+.content h4{
+    border-style:solid;
+    width: 120px;
+    border-width: 1px;
+    border-color: #ffffff;
+    position: absolute;
+    bottom: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+.content hr{
+    float: center;
+    text-decoration: white;
+    
+}
+.conte{
+
+   overflow: hidden;
+   background-color: #333;
+   /*position: fixed;*/
+   border-width: 0;
+   width: 100%;
+   bottom: 0px;
+
+}
+.conte a {
+ float: left;
+ display: block;
+ color: #f2f2f2;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 14px;
+
+}
+.container{
+    float: left;
+    width: 40%;
+    padding: 15px;
+    padding-left: 75px;
+}
+.center{
+/*    float: bottom;*/
+column-count:3;
+padding: 345px;
+padding-bottom: 235px;
+
+
+}
+/*.focal{
+    float: right;
+}*/
+
+.conte ul {
+ float: right;
+}
+
+.conte ul li {
+ display: inline;
+ padding-right: 20px;
+}
+
+
+ .conte a:hover {
+ color: green;
+}
+
+.what {
+    column-count: 3;
+    padding: 30px;
+    padding-right: 20px;
+    background-color: #ffffff;
+    padding-left: 10%;
+}
+.me {
+    float:right;
+    background: silver;
+    width:60%;
+   /* height:620.91px;*/
+}
+
+
+.abt{
+    float:left;
+    width: 50%;
+}
+.design:after{
+    content: "";
+    display: table;
+    clear: both;
+    width: 10px 0px;
+    
+}
+
+.abt{
+    background-color: #bbbbbb;
+}
+
+
+               
+.pic img{
+    float:left;
+    width: 508px;
+   /* height: 620.91px;*/
+}
+
+.my{
+    background-color: white;
+    height: 330px;
+    width:100%;
+    display: table;
+    padding-left: 100px;
+
+}
+
+.cat{
+    float: left;
+    width: 45%;
+    padding: 10px;
+   /* color: green;*/
+
+}
+
+
+.cat h3{
+    border: 3px solid green;
+    width: 200px;
+    /*height: 50px;*/
+    text-align: center;
+    padding-top: 10px;
+    
+
+}
+
+.photo {
+    width: 500px;
+    background-color: silver;
+}
+
+.a_photo{
+    width: 90%;
+    background-color: green;
+    color:white;
+
+}
+
+.illust {
+    width: 500px;
+    background-color: silver;
+}
+
+.a_illust{
+    width: 80%;
+    background-color: green;
+     color:white;
+
+}
+.code {
+    width: 500px;
+    background-color: silver;
+
+}
+
+.a_code{
+    width: 90%;
+   /* height: 30px;*/
+    background-color: green;
+   
+}
+
+.sql {
+    width: 500px;
+/*    height: 30px;
+*/    background-color: silver;
+      color:white;
+}
+
+.a_sql{
+    width: 70%;
+/*    height: 30px;
+*/    background-color: green;
+
+}
+
+.res{
+    width: 45%;
+  /*  height: 300px;*/
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 20px;
+    background-color: silver;
+
+}
+
+
+.res h3{
+    border: 3px solid green;
+    width: 200px;
+    /*height: 50px;*/
+    text-align: center;
+    padding-top: 10px;
+    color: green;
+    margin: 0 auto;
+
+}
+
+.pg{
+    background-color: white;
+   /* height: 400px;*/
+    width:100%;
+    display: table;
+    padding-top: 60px;
+    padding-left: 7%;
+}
+
+.edu{
+    float: left;
+    width: 45%;
+    padding: 10px;
+}
+
+.dip{
+    width: 50%;
+    float: right;
+
+}
+.dip: dipone{
+    padding-top: 20px;
+}
+
+.dip h5{
+    border: 3px solid green;
+    width: 80px;
+/*    height: 25px;
+*/    text-align: center;
+    padding-top: 5px;
+    color: white;
+    background-color: green;
+ }
+
+.xpe{
+    background-color: white;
+/*    height: 45%;
+*/    width:100%;
+    display: table;
+    padding-top: 20px;
+    padding-left: 7%;
+}
+.work{
+    float: left;
+    width: 45%;
+    padding: 10px;
+    padding-right: 8%;
+}
+
+.rat{
+    width: 50%;
+    float: right;
+   padding-right: 8%;
+
+}
+
+.rat h6{
+    font-size: 15px;
+}
+
+.rat h5{
+    border: 3px solid green;
+    width: 80px;
+/*    height: 25px;
+*/    text-align: center;
+    padding-top: 5px;
+    color: white;
+    background-color: green;
+ }
+
+ .sum{
+    width: 45%;
+    /*height: 300px;*/
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 40px;
+    background-color: silver;
+
+}
+
+
+
+
+.why{
+    background-color: #fff;
+    overflow: auto;
+    padding:20px;
+    width: 100% ;
+    padding-left: 10%;
+    margin: 0 auto;
+    text-align: center;
+
+
+
+}
+
+
+
+
+.port{
+    column-count: 3;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+
+.tact{
+    text-align: left;
+    padding-right: 55%;
+    background-color: #A9A9A9;
+}
+.act{
+    font-size: 18px;
+    padding-left: 22%;
+}
+.this{
+    padding-left: 55%;
+    text-align: right;
+    color:grey;
+}

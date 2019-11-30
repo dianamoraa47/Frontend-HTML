@@ -1,0 +1,19 @@
+body{
+	background-color: #bfbfbf;
+	font-size: 15px;
+
+	}
+header{border color: 15px;
+	   background-color: orange;
+	   font-size: 14px;
+	   text-align: right;
+       font: black;
+       padding-bottom: 24px;
+       padding-right: 95px
+  
+ }
+header img{
+	float: left;
+	padding-left: 95px;
+
+}

@@ -1,0 +1,61 @@
+var elem = document.getElementById("adRect");
+ elem.addEventListener("mouseenter", mOver);
+ elem.addEventListener("mouseleave", mOut);
+
+ var elemBg = document.getElementById("demo");
+ var elemImg = document.getElementById("demo__img");
+ var textImg = document.getElementById("text__img");
+
+
+
+/*
+ document.styleSheets[0].insertRule('demo__imge:hover { background-color: red; }', 0);
+ document.styleSheets[0].cssRules[0].style.backgroundColor= 'red';
+*/
+ function mOver(){
+ // console.log("mOver");
+
+
+
+
+
+ /*var tween = new TWEEN.Tween( { x: 0 } )
+ .to( { x: 100 }, 200 )
+ .easing( TWEEN.Easing.Quadratic.InOut )
+ .onUpdate( function () {
+ //console.log(this.x);
+ rotate1(this.x);
+ } )
+ .start();
+
+ animate();*/
+ }
+
+ function mOut(){
+ // console.log("mOut");
+
+ /*var tween = new TWEEN.Tween( { x: 100 } )
+ .to( { x: 0 }, 200 )
+ .easing( TWEEN.Easing.Quadratic.InOut )
+ .onUpdate( function () {
+ console.log(this.x);
+ animateObj(this.x);
+ } )
+ .start();
+
+ animate();*/
+ }
+
+ function rotate1(val){
+ val = val *0.1;
+ //elemImg.style.transform = "rotate("+val+"deg)"
+
+ //var transform = 'translateX(' + val + 'px)';
+ //elemBg.style.webkitTransform = transform;
+ //elemBg.style.transform = transform;
+ }
+
+ function animate( time ) {
+ requestAnimationFrame( animate );
+ TWEEN.update( time );
+ }
